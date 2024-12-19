@@ -2,9 +2,9 @@ Santa Claus 🎅 está revisando el inventario de su taller para preparar la ent
 
 Recibirás un array de objetos, donde **cada objeto representa un juguete y tiene las propiedades**:
 
-- **name**: el nombre del juguete (string).
-- **quantity**: la cantidad disponible de ese juguete (entero).
-- **category**: la categoría a la que pertenece el juguete (string).
+- `name`: el nombre del juguete (string).
+- `quantity`: la cantidad disponible de ese juguete (entero).
+- `category`: la categoría a la que pertenece el juguete (string).
 
 Escribe una función que procese este array y devuelva un objeto que organice los juguetes de la siguiente manera:
 
