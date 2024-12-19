@@ -8,6 +8,8 @@ AdventJS es una iniciativa de [@midudev](https://midu.dev) basada en [Advent of 
 
 Este repositorio almacena todas las soluciones a dichos retos propuestos.
 
+
+## 🎁 2024
 <details open>
 
 <summary>Show / Hide</summary>
@@ -29,6 +31,11 @@ Este repositorio almacena todas las soluciones a dichos retos propuestos.
 | 12  |        [💵 ¿Cuánto cuesta el árbol?](2024/challenge12)         |       🟢       | [Solución](2024/challenge12/solution.js) |
 | 13  |        [🤖 ¿El robot está de vuelta?](2024/challenge13)         |       🔴       | [Solución](2024/challenge13/solution.js) |
 | 14  |        [🦌 Acomodando los renos](2024/challenge14)         |       🟢       | Solución |
+| 15  |        [✏️ Dibujando tablas](2024/challenge15)         |       🟢       | Solución |
+| 16  |        [❄️ Limpiando la nieve del camino](2024/challenge16)         |       🟢       | Solución |
+| 17  |        [💣 Busca las bombas del Grinch](2024/challenge17)         |       🟠       | Solución |
+| 18  |        [📇 La agenda mágica de Santa](2024/challenge18)         |       🔴       | Solución |
+| 19  |        [📦 Apila caja mágicas para repartir regalos](2024/challenge19)         |       🔴       | Solución |
 
 **Dificultad**: 🟢 Fácil 🟠 Medio 🔴 Difícil 🟣 Muy Difícil
 
