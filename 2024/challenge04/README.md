@@ -7,3 +7,5 @@ La función debe devolver un string que represente el árbol de Navidad, constru
 - Todos los árboles tienen un tronco de dos líneas, representado por el carácter #.
 - El árbol siempre debe tener la misma longitud por cada lado.
 - Debes asegurarte de que el árbol tenga la forma correcta usando saltos de línea \n para cada línea.
+
+Asegúrate de utilizar saltos de línea \n al final de cada línea, **excepto en la última**.

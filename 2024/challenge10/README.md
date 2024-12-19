@@ -10,4 +10,6 @@ Para ayudarles, vamos a implementar un intérprete sencillo que soporte las sigu
 Comportamiento esperado:
 - Si se intenta acceder, incrementar o decrementar a un registro que no ha sido inicializado, se tomará el valor `0` por defecto.
 - l salto con `JMP` es absoluto y lleva al índice exacto indicado por `y`.
-- Al finalizar, el programa debe devolver el contenido del registro `A`. Si `A` no tenía un valor definido, retorna undefined.
+- Al finalizar, el programa debe devolver el contenido del registro `A`. Si `A` no tenía un valor definido, retorna `undefined`.
+
+**Nota: Los registros que no han sido inicializados previamente se inicializan a 0.**
